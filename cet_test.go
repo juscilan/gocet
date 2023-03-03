@@ -1,4 +1,4 @@
-package main
+package gocet_test
 
 import (
 	"testing"
